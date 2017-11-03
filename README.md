@@ -27,12 +27,25 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
+Challenge 1 - https://i.imgur.com/Lz4596v.gif
 <img src='https://i.imgur.com/Lz4596v.gif' title='Challenge 1 - HTTP Headers' width='' alt='Challenge 1 - HTTP Headers' />
+
+Challenge 2 - https://i.imgur.com/56VALCO.gif
 <img src='https://i.imgur.com/56VALCO.gif' title='Required: Challenge 2 - Basic Routes 1' width='' alt='Required: Challenge 2 - Basic Routes 1' />
+
+Challenge 3 - https://i.imgur.com/jXCllbe.gif
 <img src='https://i.imgur.com/jXCllbe.gif' title='Challenge 3 - Query Params 1' width='' alt='Challenge 3 - Query Params 1' />
+
+Challenge 4 - https://i.imgur.com/APMPjjg.gif
 <img src='https://i.imgur.com/APMPjjg.gif' title='Challenge 4 - Insecure Direct Object References (IDOR)' width='' alt='Challenge 4 - Insecure Direct Object References (IDOR)' />
+
+Challenge 5 - https://i.imgur.com/hkkO4rG.gif
 <img src='https://i.imgur.com/hkkO4rG.gif' title='Challenge 5 - IDOR Challenge 1 ' width='' alt='Challenge 5 - IDOR Challenge 1 ' />
+
+Bonus 1 - https://i.imgur.com/lX8cpHo.gif
 <img src='https://i.imgur.com/lX8cpHo.gif' title='' width='Bonus 1: IDOR Challenge 2 ' alt='Bonus 1: IDOR Challenge 2 ' />
+
+Bonus 2 - https://i.imgur.com/jBy495H.gif
 <img src='https://i.imgur.com/jBy495H.gif' title='Bonus 2: IDOR Bank Challenge 3' width='' alt='Bonus 2: IDOR Bank Challenge 3' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
